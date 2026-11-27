@@ -1,0 +1,2 @@
+# Szymi
+zadanie_praktyki
