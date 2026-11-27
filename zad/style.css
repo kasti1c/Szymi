@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(53, 53, 53);
+}
+#zad1{
+    background-color: rgb(155, 0, 0);
+    text-align: center;
+    height: 550px;
+    width: 400px;
+    color: white;
+    margin-left: 750px;
+    border-radius: 20px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+.zad{
+    color: white;
+    margin-top: 70px;
+}
+.listafilmy{
+    color: white;
+}
+#listafilmy{
+    background-color: rgb(155, 0, 0);
+    width: 360px;
+    border-radius: 20px;
+    margin-left: 750px;
+    text-align: center;
+}
+#h1lista{
+    color: white;
+}
+#iframe{
+    margin-left: 750px;
+    width: 410px;
+    height: 700px;
+    box-shadow: 20px 20px 20px 11px rgba(0,0,0,0.5);
+}
+table{
+    color: white;
+    border: 1px solid white;
+    margin-left: 630px;
+}
+th{
+    border: 1px solid white;
+}
+#formularz{
+   height: 250px;
+   width: 300px;
+   background-color: rgb(155, 0, 0); 
+   text-align: center;
+   margin-left: 800px;
+   color: white;
+   border-radius: 20px;
+}
+#przycisk1{
+    background-color: greenyellow;
+}
+#podstrona{
+    font-size: 30px;
+    margin-left: 87 0px;
+}
+#listapozioma{
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    background-color: rgb(155, 0, 0);
+    height: 50px;
+}
+.li1{
+    margin: 10px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: white;
+}
+#zad7{
+    background-color: rgb(155, 0, 0);
+    height: 1150px;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    margin-left: 700px;
+}
+#imgzad7{
+    height: 350px;
+    width: 500px;
+}
+#pocz{
+    font-size: 50px;
+}
+#podstrona{
+    font-size: 50px;
+    margin-left: 825px;
+}
+.zad9{
+    font-size: 40px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+}
+.zad9:hover{
+    color: greenyellow;
+}
+#zad10{
+    display: flex;
+    margin-left: 600px;
+}
+#zad10_1{
+    background-color: red;
+    height: 500px;
+    width: 100px;
+}
+#zad10_2{
+    background-color: teal;
+    height: 500px;
+    width: 400px;
+}
+#zad10_3{
+    background-color: white;
+    height: 500px;
+    width: 200px;
+}
